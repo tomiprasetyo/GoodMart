@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "780505469615",
+    "project_id": "goodmart-2664f",
+    "storage_bucket": "goodmart-2664f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780505469615:android:4bc2b8b1e1fa429f403a5a",
+        "android_client_info": {
+          "package_name": "com.tomiprasetyo.goodmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780505469615-u2ndnh1qa1kjrph73s7j9ae6ebiu5ptk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tomiprasetyo.goodmart",
+            "certificate_hash": "df6b54982129e82e87275622af28fd6459598c05"
+          }
+        },
+        {
+          "client_id": "780505469615-so2gbv2d475mf7jrh096u80a019qkv22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX_9lJchatbPmEk8fTDR_nhdsOmJ_I93w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780505469615-so2gbv2d475mf7jrh096u80a019qkv22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
